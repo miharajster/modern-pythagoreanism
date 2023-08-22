@@ -9,4 +9,5 @@ Mathematics is the only underlying trough.
 >Following political instability in Magna Graecia, some Pythagorean philosophers fled to mainland Greece while others regrouped in Rhegium. By about 400 BC the majority of Pythagorean philosophers had left Italy. Pythagorean ideas exercised a marked influence on Plato and through him, on all of Western philosophy. Many of the surviving sources on Pythagoras originate with Aristotle and the philosophers of the Peripatetic school.
 >
 >As a philosophic tradition, Pythagoreanism was revived in the 1st century BC, giving rise to Neopythagoreanism. The worship of Pythagoras continued in Italy and as a religious community Pythagoreans appear to have survived as part of, or deeply influenced, the Bacchic cults and Orphism."
+
 https://en.wikipedia.org/wiki/Pythagoreanism
