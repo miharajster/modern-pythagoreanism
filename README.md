@@ -1,3 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/modern-pythagoreanism/main/modern_pythagoreanism_banner.jpg"/>
+
 # Modern Pythagoreanism
 Mathematics is the only underlying trough.
 
