@@ -1,8 +1,5 @@
 <img width="100%" src="https://raw.githubusercontent.com/miharajster/modern-pythagoreanism/main/modern_pythagoreanism_banner.jpg"/>
 
-# Modern Pythagoreanism
-Mathematics is the only underlying trough.
-
 ## About Pythagoreanism
 >Pythagoreanism originated in the 6th century BC, based on and around the teachings and beliefs held by Pythagoras and his followers, the Pythagoreans. Pythagoras established the first Pythagorean community in the ancient Greek colony of Kroton, in modern Calabria (Italy). Early Pythagorean communities spread throughout Magna Graecia.
 >
